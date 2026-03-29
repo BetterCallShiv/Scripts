@@ -12,7 +12,7 @@
 #       4. Create a folder named "uploads" in the same dir where the script is.
 #       5. Place your .mp4, .mkv or .mov files inside the "uploads" folder.
 #       6. Run the script.
-#       7. Go to your bot on Telegram and send /process to start the uploading.
+#       7. Add your bot in Telegram GC or Channel and send /process in the chat to start uploading there.
 ##########################################################################
 
 import asyncio
